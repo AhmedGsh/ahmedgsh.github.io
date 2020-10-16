@@ -1000,8 +1000,8 @@ footer a#back_to_top i {
  **************************************************/
 
 .btn-primary {
-  border-color: #e21212 !important;
-  background: #e21212 !important;
+  border-color: #3112e2 !important;
+  background: ##3112e2 !important;
 }
 
 .btn-primary:hover,
@@ -1009,7 +1009,7 @@ footer a#back_to_top i {
 .btn-primary.active,
 .btn-primary:visited,
 .open > .dropdown-toggle.btn-primary {
-  background: #e21212 !important;
+  background: ##3112e2 !important;
 }
 
 .btn-light {
