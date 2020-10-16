@@ -91,7 +91,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 400;
   margin-bottom: .5rem;
   line-height: 1.25;
-  color: #e21212;
+  color: #121ce2;
   text-rendering: optimizeLegibility;
   overflow-wrap: break-word; /* Ensures very long heading words do not overflow into content. */
 }
